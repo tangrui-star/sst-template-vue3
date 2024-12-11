@@ -1,29 +1,27 @@
-# sst-template-vue3
+# st-template-vue3
 
-This template should help get you started developing with Vue 3 in Vite.
+sst-template-vue3作为sst团队的Vue3前端基础框架，以便于团队成员快速理解和开发。将包含常用的组件、工具函数和功能插件等。
 
-## Recommended IDE Setup
+## 一、项目初始命令
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+> node版本：18.3及以上
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+### 项目启动 Project Setup
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 编译和热重载开发 Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 编译和缩小生产 Compile and Minify for Production
 
 ```sh
 npm run build
 ```
+
+## 二、项目介绍
